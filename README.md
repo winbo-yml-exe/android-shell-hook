@@ -1,6 +1,6 @@
 # Please read README before using!
 
-Android shell hook is a tool to get access to any Android phone's terminal during boot. This can sometimes open a root shell if your phone meets the requirements.
+Android shell hook is a tool to get access to any Android phone's terminal during boot. This can sometimes open a root shell if your phone meets the requirements. Only supports Windows as of now.
 
 ## This tool needs to be ran during the phone's second part of bootup! Below i explain so everyone understands when.
 
